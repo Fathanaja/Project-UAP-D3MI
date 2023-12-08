@@ -1,11 +1,14 @@
 #include <iostream>
 #include <cstdlib>
+#include <random>
 using namespace std;
 
 int main()
 {
     int pil, player, bot;
     string ulang;
+    cout << roll the dice !! << endl;
+    
     do
     {
         system("cls");
