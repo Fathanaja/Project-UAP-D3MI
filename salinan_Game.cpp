@@ -7,7 +7,7 @@ int main()
 {
     int pil, player, bot;
     string ulang;
-    cout << roll the dice !! << endl;
+    cout << "roll the dice !!" << endl;
     
     do
     {
